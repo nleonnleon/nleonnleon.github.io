@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Norma León"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Norma León"
+description              : &description "Investigación, Tesis de ingeniería y artículos"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,25 +26,25 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Investigadora y docente en ingeniería"
+  location         : "Lima, Perú"
+  employer         : "Universidad de San martín de Porres"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nleonnleon@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://independent.academia.edu/NormaLeon1"# URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=SYrccXkAAAAJ&hl=es"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4219-5390"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  pubmed           : # URL"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Norma-Leon-4"# URL
+  scopus           : "https://scopus.unmsm.lookproxy.com/authid/detail.uri?authorId=57193357126"# URL
+  zotero           : "https://www.zotero.org/nleonl"# URL
 
 
   # Repositories and software development
