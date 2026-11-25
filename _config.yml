@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Investigadora y docente en ingeniería"
   location         : "Lima, Perú"
-  employer         : "Universidad de San martín de Porres"
+  employer         : "Universidad de San Martín de Porres"
   uri              : # URL
   email            : "nleonnleon@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
